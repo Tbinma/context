@@ -1,19 +1,425 @@
-Question 1:  I was in conversation with a donor about a gift, when they mentioned their child was in the applicant pool.  What should I do?
 
-Answer: You should respectfully inform the potential donor that it is NYU’s policy that we do not engage in gift conversations with anyone when we know that they have a family member in the applicant pool.  Once the admissions process has passed, you look forward to continuing the conversation about a gift at that point. You should also note that NYU does not accept gifts intended to influence the admissions process.
+ 	«Approved»
+Dean D.B. Zhakebayev 
 
-Question 2: My prospect has a child who is a sophomore in high school.  Can I pursue a gift conversation with that donor?
+________________________
+«__» ___________ 2023
 
-Answer: The policy only applies to family members who are in the applicant pool so you could pursue a gift conversation with this prospect. However, if the prospect indicates that they hope their gift will influence the admissions decision if the child applies to NYU, the prospect should be told that admissions decisions are not influenced by a person’s philanthropic support and that NYU does not accept gifts intended to influence the admissions process.
+Syllabus
+Academic Year 2022 -2023                                             
 
-Question 3: My prospect says that they are only considering making a gift because they want to increase their child’s chance for future admission.  What should I say?
+1. General information
+Course title	Teaching Practicum (Internship)
+Groups	ADA 2201, ADA 2202, CS 2201, CSE 2201, CSE 2202, CSE 2203, CSE 2204, CSE 2205, PM 2201, DPA 2201
+Year, Trimester 	The second trimester
+Number of credits	4
+Language of Delivery:	English
+Prerequisites	Pedagogy of Higher Education, Psychology of Management, Methodology and Methods of Research
+Post requisites	Research Internship
+Teaching Practicum Supervisor 	Zhibek Kenesbekovna Tleshova, PhD in Education, Associate Professor
+zhibek.tleshova@astanait.edu.kz 
+2. Goals, objectives and learning outcomes of the course
+⦁	Course description	Teaching Practicum is designed for MA students to gain experience of teaching related disciplines in their major fields. Teaching Practicum is designed to work with a faculty mentor for four weeks. You will gain insight into the realities of teaching an undergraduate course. You will have the opportunity to give lecture/s, seminars or practicums, at least three (3 lessons) full class periods and participate in teaching-related activities such as designing homework or exam questions, and grading student assignments. You will receive feedback on your teaching from your faculty mentor, Teaching Practicum supervisor, and your peers. 
+In the course of participation in this learning and teaching process with faculty members and other peer Teaching Practicum students, you will be able to 
+a) reflect on your own teaching experience, 
+b) provide feedback to your peers’ teaching experience, 
+c) learn from the faculty members about learning and teaching behavior at various levels and disciplines and get to know more about an academic job, and 
+d) define and develop your own teaching philosophy statement.
+⦁	Course goal(s)
+	In the course of Teaching Practicum period, you will be able to…
+1. Apply hard skills (knowledge in the discipline) to teaching experiences
+a. writing a lesson plan (learning objectives, activities, assessment methods, and strategies for motivating students)
+b. demonstrating application of foundational knowledge during teaching
+2. Demonstrate professional and effective communication
+a. demonstrating appropriate delivery methods for your instructional content
+b. demonstrating welcoming and respectful interpersonal communication
+3. Engage in critical analysis of your and others’ teaching
+a. assessing your and others’ teaching and identify strengths and areas for growth
+b. collecting and reflecting on feedback from students, peers, and mentors on your teaching skills
+4. Develop your faculty career goals
+a. reflecting on the teaching experience of the course discipline
+b. revising philosophy of your teaching statement
+⦁	Course objectives:
+	Teaching Practicum objectives include but no limited:
+⦁	Analysis of curricula and syllabi of the related majors and disciplines
+⦁	Class visitation and observation of the teaching and learning process
+⦁	Organization an event/meeting with students on student
+⦁	Develop lesson plans and give at least 3 classes (a lecture, practical session, seminar or a lab).
+⦁	Development teaching philosophy statement based on the teaching practicum
+⦁	Skills & competencies	The skills and competencies that will be achieved after the Teaching Practicum internship include but not limited to possessing hard and soft skills in major disciplines and Pedagogy of Higher Education, Psychology of Management; understanding the principles of learning and teaching processes, applying methods and approaches in teaching, applying various IT technologies in the course of teaching and assessing the knowledge, skills and competences; approaches of motivating BA students to study, think and create.  
+⦁	Course learning outcomes:
+	At the end of Teaching Practicum, the course students need to submit:
+⦁	A meeting hour with a group on Academic policy, Academic Integrity, and other official documents of the University related to students.
+⦁	A class observation report
+⦁	A report on three classes a student gives
+⦁	A teaching philosophy statement
+The student’s final report is reviewed by the Teaching Practicum course supervisor. The student defends and then submits the final report on Moodle LMS in order to get a grade. 
 
-Answer:  You should emphasize that admissions decisions are made solely by the admissions office and that NYU does not accept gifts intended to influence the admissions process.  You would love the donor to make the gift, but you should emphasize that their giving will not have any influence over their child’s chances and if that is the only reason they are making the gift, they may want to reconsider their decision as NYU is increasingly competitive for admission and currently less than 15% of students who apply are admitted.  If the child is currently in the applicant pool you should cite the NYU policy that we do not engage in gift conversations with anyone who has a family member in the applicant pool and postpone the conversation until after an admissions decision has been made by NYU. If the child is not in the applicant pool and depending on the circumstances, the gift conversation may continue, but you may want to flag this issue for your supervisor and document the conversations with the donor regarding the policy that NYU does not accept gifts intended to influence the admissions process.
+The final grade for Teaching Practicum will be given by the Teaching Practicum course supervisor based on your reports and the assessment rubrics.
+Important Deadline: Student must submit the final report at the end of the Teaching Practicum course from December 19, 2022– February 11, 2023. 
+⦁	Methods of assessment	⦁	The followings will be graded: 
+a) a report of a meeting hour with students (Appendix 1)
+d) a class observation report (Appendix 2)
+b) a report on three classes a student gives (Appendix 3)
+c) a teaching philosophy statement. For sample, see the materials presented by MIT OPENCOURSEWARE
+Haugen, Lee. " Writing a Teaching Philosophy Statement (PDF)." Center for Teaching Excellence, Iowa State University, 1998.
+Oneil, C., D. Meizlich, and M. Kaplan. "Writing a Statement of Teaching Philosophy for the Academic Job Search." Center for Research on Teaching and Learning, University of Michigan, 2007.
+⦁	Assessment Rubrics for lesson planning and teaching and student event hour (Appendix 4)
+⦁	Assessment Rubric for the Teaching philosophy statement (Appendix 5)
+⦁	Reading list and Resources	
+Main literature: 
+1. Оқыту теориясы. Д. Х Шунк. Тараулар 1, 3,4,5,6,7, 8,9,10,11 және 12. Баспа: Pearson, 2019
+2. Рефлективті оқыту негіздері. Э.Поллард. Бөлімдер 2, 3, и 4. Баспа: Bloomsbury Academic, 2019
+Additional resources:
+For the reading list and Resources, please find the attached links. These are the open sources by Massachusetts Institute of Technology (MIT), the US.  
+MITOOPENCOURSEWARE https://ocw.mit.edu/courses/chemistry/5-95j-teaching-college-level-science-and-engineering-fall-2015/instructor-insights/
+Reading list:
+"What Ails Elite Education? Debating Deresiewicz's 'Excellent Sheep'," The Chronicle of Higher Education, August 19, 2014.
+Hooks, Bell. Teaching to Transgress: Education as the Practice of Freedom. Routledge, 1994, pp. 1–12. ISBN: 9780415908085.
+Berrett, Dan. "The Day the Purpose of College Changed," The Chronicle of Higher Education, January 26, 2015.
+Seymour, E., and N. M. Hewitt. Talking about Leaving: Why Undergraduates Leave the Sciences. Westview Press, 2000, pp. 145–77. ISBN: 9780813366425.
+Halpern, D. F., and M. D. Hakel. "Applying the Science of Learning." Change (2003).
+Lang, J. M. "Week 7-Students as Learners." In On Course: A Week by Week Guide to Your First Semeseter of College Teaching. Harvard University Press, 2008, pp. 153–77. ISBN: 9780674028067. [Preview with Google Books]
+Boettcher, J. V. "Ten Core Principles for Designing Effective Learning Environments: Insights from Brain Research and Pedagogical Theory." 2007.
+Short Film: Teaching Teaching and Understanding Understanding. Aarhus University Press, 2006.
+Garrison, D. R. Chapter 1 in E-Learning in the 21st Century: A Framework for Research and Practice. Routledge, 2011, pp. 59–70. ISBN: 9780415885836.
+Mayer, Richard. "Elements of a Science of E-Learning." Journal of Educational Computing Research 29, no. 3 (2003): 297–313.
+Berrett, Dan. "How 'Flipping' the Classroom Can Improve the Traditional Lecture," The Chronicle of Higher Education, February 19, 2012.
+Dahlstrom, Eden, J. D. Walker, and Charles Dziuban, foreward by Glenda Morgan.  "ECAR Study of Undergraduate Students and Information Technology." (PDF - 2.6MB) 2013 (Research Report). Louisville, CO: EDUCAUSE Center for Analysis and Research, September 2013.
+Aleman, L. and D. Shah. Guidelines on Ed Tech Usage (PDF). Created for the MIT Teaching Certificate Program, 2012.
+ Carl Wieman Science Education Initiative-Assessments That Support Student Learning (PDF)
+From: Key points and factors from the review paper "Conditions under which Assessment Supports Student Learning." By G. Gibbs and C. Simpson.
+McKeachie, W. J. "The A, B, C's of Assigning Grades." Chapter 9 in Teaching Tips: A Guidebook for the Beginning College Teacher. Heath, 1969.
+Piontek, Mary E.  "CRLT Occasional Paper No. 24: Best Practices for Designing and Grading Exams." (PDF) Center for Research on Teaching and Learning, University of Michigan, 2001.
+Glenn, Weslee S., Elizabeth M. V., and Catherine L. Drennan.  "But I Don't Like Beer: A Guide to Identifying and Reducing Stereotype Threat to Maximize Student Performance." (PDF - 4.6MB) Department of Chemistry, Department of Biology, Massachusetts Institute of Technology, Cambridge, Massachusetts. Howard Hughes Medical Institute Professors grant. http://drennan.mit.edu/education/education-interests/teacher-and-mentor-training/ (under Resources).
+McIntosh, Peggy.  "White Privilege: Unpacking the Invisible Backpack." (PDF) Independent School Magazine, 1998, 31.
+Crosley-Corcoran, Gina. "Explaining White Privilege to a Broke White Person," Huffington Post, May 8, 2014. (A slightly different perspective on White Privilege)
 
-Question 4: An educational consultant tells a fundraiser that the child of a foreign billionaire is applying to NYU and that they would like to help the parent make a gift to NYU.
+Davis, Barbara Gross. "Diversity and Complexity in the Classroom: Considerations of Race, Ethnicity, and Gender." Chapter 5 in Tools for Teaching. Jossey-Bass, 1993. ISBN: 9781555425685.
+Barad, Karen. "A Feminist Approach to Teaching Quantum Physics." Chapter 2 in Teaching the Majority: Breaking the Gender Barrier in Science, Mathematics, and Engineering. Edited by S. Rosser. Teachers College Press, 1995, pp. 43–75. ISBN: 9780807762769.
 
-Answer:  The fundraiser should thank the consultant for sharing this information and then inform the consultant that it is NYU’s policy that we do not engage in gift conversations with anyone when we know that a potential donor has a family member in the applicant pool.  Once the admissions process has passed, you look forward to continuing the conversation directly with the potential donor about a gift at that point. You should also note that NYU does not accept gifts intended to influence the admissions process. 
 
-Question 5:  An existing or prospective donor in the process of a gift conversation mentions their neighbor is applying to NYU this year and indicates that the donor hopes that this gift will positively affect the neighbor’s chances of admissions. 
+⦁	Videos on Active Learning	These sources are published by MITOOPENCOURSEWARE by Dr. Janet Rankin
+Active Learning Overview
+Active Learning Strategy: Mud Cards
+Active Learning Strategy: Think-Pair-Share
+Active Learning Strategy: Debate
+Active Learning Strategy: Beach Ball
+Active Learning Strategy: Personal Response Systems
+Active Learning Strategy: Lightning Round
+Active Learning Strategy: Jigsaw
 
-Answer: You may continue the gift conversation, but you should emphasize that admissions decisions are made solely by the admissions office and explicitly state that NYU does not accept gifts intended to influence the admissions process.  You would love the donor to make the gift, but you should emphasize that their giving will not have any influence over the neighbor’s chances and if that is the only reason they are making the gift, they may want to reconsider their decision as NYU is increasingly competitive for admission and currently less than 15% of students who apply are admitted.   Depending on the circumstances, you may want to flag this issue for your supervisor and document the conversations with the donor regarding the policy that NYU does not accept gifts intended to influence the admissions process.
+⦁	Course policy	Course and university policies include:
+Attendance: Students are expected to attend all scheduled lessons with faculty mentors. 
+Team work: Students are expected to work in small teams and discuss the lesson plans, lesson observations, lesson materials and teaching methods.
+Cheating and plagiarism are defined in the Academic conduct policies of the university and include: 
+1. Submitting work that is not your own papers, assignments, or feedback papers. 
+2. Copying ideas, words, or graphics from a published or unpublished source without appropriate citation. 
+3. Submitting or using falsified data. 
+Contacting the supervisor: The easiest and most reliable way to get in touch with the supervisor is by email or on Microsoft Teams chat. Students must feel free to send an email if you have a question related to Teaching Practicum. Students are also welcome to arrange a one-to-one meeting with the supervisor by their office or online during office hours to discuss the Teaching Practicum.
+
+⦁	Teaching Practicum Plan by weeks
+
+№	Type of work	Date
+1	⦁	Working with Discipline instructors
+⦁	Studying Curricula, Syllabi and class observation
+⦁	Preparing lesson plans
+⦁	Choosing a first-year student group for a tutorial class on Student Ethics Code, Academic Policy and other provided documents.
+⦁	Holding a tutorial class with the first-year students, and submitting your report on LMS Moodle. 	December 19, 2022 – January 7, 2023
+2	⦁	Immersing into teaching 
+⦁	Attending peer students’ classes
+⦁	Feedback to peers’ lesson plans and lessons
+⦁	Assisting the discipline instructors on preparing lesson materials, assessment materials and grading papers. 
+⦁	Giving classes.
+	January 9 – 14, 2023
+3	⦁	Immersing into teaching
+⦁	Developing assignments  and exam materials
+⦁	Assessing student papers (analysis)
+⦁	Assisting the discipline instructors on preparing lesson materials.  
+⦁	Giving classes.	January 16-  21, 2023
+4	⦁	Immersing into teaching
+⦁	Developing assignments or exam materials
+⦁	Assessing student papers (analysis)
+⦁	Giving classes.	January 23 – January 28, 2023
+5	⦁	Writing your essay
+⦁	Preparing the documents to be submitted 
+⦁	Submission of all your reports	January 30- February 11, 2023
+
+Grading System 
+Letter Grade	Numerical equivalent	Percentage	Grade according to the traditional system
+А	4,0	95-100	Excellent
+А-	3,67	90-94	 
+В+	3,33	85-89	Good
+В	3,0	80-84	 
+В-	2,67	75-79	 
+С+	2,33	70-74	 
+С	2,0	65-69	
+Satisfactory
+С-	1,67	60-64	 
+D+	1,33	55-59	 
+D	1,0	50-54	 
+FX	0	25-49	Fail
+F	0	0-24	 
+ 
+
+
+
+
+
+
+
+Appendix 1.
+
+A report of a meeting hour with students
+
+Theme of the meeting:	
+Date:	
+Group #:	
+Aim and objectives of the meeting	
+
+
+
+	20 pts
+Expected outcomes of the meeting	
+
+
+
+
+	20 pts
+Form of the meeting (a lecture, conference, practical session or other forms)	
+
+
+
+
+	15 pts
+Methods of conducting a meeting hour	
+
+
+
+	20 pts
+Aim and objectives achievement measures	
+
+
+
+	15 pts
+Student feedback	
+
+
+
+	10 pts
+
+The official documents will be uploaded on LMS Moodle in advance
+
+Appendix 2.
+
+Classroom Observation Form 
+This form is to be used for MA students Teaching Practicum. MA students as observers should use the form to reflect on learning and teaching process during the class by faculty mentors and discuss their observation results with faculty mentor and supervisor. 
+Faculty member’s name	
+Discipline	
+Type of the discipline 	
+Date and time 	
+	Classroom Visits Observation Notes 
+
+For each of the items listed below, write your comments 
+	
+
+
+
+Defines objectives for the class presentation (verbally or written).	
+
+
+Effectively organizes learning situations to meet the objectives of the class.	
+
+
+
+Uses instructional methods that encourage relevant student participation in the learning process.	
+
+
+
+
+
+Uses class time effectively.	
+
+
+
+Demonstrates enthusiasm for the subject matter.	
+Communicates clearly and effectively to the level of the students.	
+Explains important ideas simply and clearly.	
+Demonstrates command of subject matter.	
+Responds appropriately to student questions and comments.	
+Encourages critical thinking and analysis.	
+The class included Research oriented study (ROS).	
+Instructor Strengths: 
+
+
+
+
+
+Students response/reaction to the teacher behaviour/activities:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Teacher’s response/reaction to student behaviour/activities: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+General Comments: 
+
+
+
+
+
+Based on: Successful Faculty Evaluation Programs, by P. Seldin. Crugers, N.Y.: Coventry Press, 1980
+
+
+
+
+Appendix 3.
+
+A report on three classes a student gives (Three reports should be submitted in one Word format file)
+Lesson 1…
+1	A lesson type	
+2	Topic of the lesson	
+3	How were the aims and objectives of the lesson defined and were they achieved?	  
+
+
+
+
+
+
+
+
+4	How did the methods work?	
+
+
+
+
+
+5	How did the student behave?	
+
+
+
+
+
+
+
+6	How did you manage the process of teaching and learning?	
+
+
+
+
+
+
+7	How did you assess the student knowledge and learning? The reason why did you choose this/these or that/those type/s of assessment/s	
+8	Your overall conclusion of your lesson.	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appendix 4.
+Assessment Rubrics 
+for lesson planning and teaching 
+(This Assessment rubric will be used to assess a student teaching by a discipline instructor)
+#	Criteria	Scores	You receive
+1	Defines objectives for the class presentation (verbally or written).	5	
+2	Effectively organizes learning situations (learning models) to meet the objectives of the class.	5	
+3	Uses instructional methods that encourage relevant student participation in the learning process.	8	
+4	Uses class time effectively.	5	
+5	Demonstrates enthusiasm for the subject matter.	7	
+6	Communicates clearly and effectively to the level of the students.	15	
+7	Explains important ideas simply and clearly.	15	
+8	Demonstrates command of subject matter.	15	
+9	Responds appropriately to student questions and comments.	10	
+10	Encourages critical thinking and analysis.	10	
+11	The class included Research oriented study (ROS).	5	
+		100	
+
+12	Student strength:
+
+
+
+
+
+
+
+13	Student weakness:
+
+
+
+
+
+
+Appendix 5. 
+Rubric for composing and evaluating a statement of teaching philosophy (Your essay title should be clearly articulated according to your teaching philosophy stance)
+Categories	Excellent	Needs Some Revision	Unsatisfactory
+Goals for student learning: What knowledge, skills, and attitudes are important for student success in your discipline? What are you preparing students for? What are key challenges in the teaching-learning process?	Goals are clearly articulated, specific, and go beyond knowledge level, including skills, attitudes, career goals, etc. Goals are sensitive to the context of the instructor’s discipline. They are concise, not exhaustive. (25 points)	Goals are articulated but may be too broad or not specific to the discipline. Goals focus on basic knowledge, ignoring skills acquisition and affective change. (20 points)	Articulation of goals is unfocused, incomplete, or missing.
+(15 points)
+Enactment of goals (teaching methods): What teaching methods do you use? How do these methods contribute to your goals for students? Why are these methods appropriate for use in your discipline?	Enactment of goals is specific and thoughtful. Includes details and rationale for teaching methods. The methods are clearly connected to specific goals and are appropriate for those goals. Specific examples of the methods in use within the disciplinary context are given. (25 points)	Description of teaching methods not clearly connected to goals, or if connected, not well developed (seems like a list of what is done in the classroom). Methods are described, but generically; no example of the instructor’s use of the methods within the discipline is communicated. (20 points)	Enactment of goals is not articulated. If there is an attempt at articulating teaching methods, it is basic and unreflective.
+(15 points)
+Assessment of goals (measuring student learning): How do you know your goals for students are being met? What sorts of assessment tools do you use (e.g., tests, papers, portfolios, journals), and why? How do assessments contribute to student learning? How do assessments communicate disciplinary priorities?	Specific examples of assessment tools are clearly described. Assessment tools are aligned with teaching goals and teaching methods. Assessments reinforce the priorities and context of the discipline both in content and type. (25 points)	Assessments are described, but not connected to goals and teaching methods. Description is too general, with no reference to the motivation behind the assessments. There is no clear connection between the assessments and the priorities of the discipline. (20 points)	Assessment of goals is not articulated or mentioned only in passing.
+(15 points)
+Creating an inclusive learning environment, addressing one or more of the following questions: How do your own and your students’ identities (e.g., race, gender, class), backgrounds, experiences, and levels of privilege affect the classroom? How do you use multiple teaching approaches? How do you integrate diverse perspectives into your teaching?	Portrays a coherent philosophy of inclusive education that is integrated throughout the statement. Makes space for diverse ways of knowing and/or teaching approaches. Discussion of roles is sensitive to historically underrepresented students. Demonstrates awareness of issues of equity within the discipline. (25 points)	Inclusive teaching is addressed but in a cursory manner or in a way that isolates it from the rest of the philosophy. Author briefly connects identity issues to aspects of his/her teaching. (20 points)	Issues of inclusion are not addressed or addressed in an awkward manner. There is no connection to teaching practices.
+(15 points)
+
+The assessment rubric is borrowed from Center for Research on Learning and Teaching (CRLT), University of Michigan and the points 
+The points are added by the supervisor of the Teaching Practicum
